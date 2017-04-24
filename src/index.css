@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  color: white;
+  background-image: url("images/table.png");
+}
+
+ul {
+  list-style-type: none;
+}
+
+a, u {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}

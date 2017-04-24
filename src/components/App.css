@@ -1,0 +1,56 @@
+.App {
+
+}
+
+.App-header {
+    background-color: #222;
+    height: 5%;
+    text-align: center;
+    padding: 5px;
+    color: white;
+}
+
+.game {
+    text-align: center;
+}
+
+.Deck-box {
+    padding: 50px;
+}
+
+.playersContainer {
+    padding-top: 40px;
+}
+
+.Player-box {
+    display: inline-table;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.playerName {
+    padding-left: 10em;
+}
+
+.dragging {
+    visibility: hidden;
+}
+
+.command {
+    background: #000000;
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border: none;
+    margin: 10px;
+}
+
+.command:hover {
+    background: orangered;
+    text-decoration: none;
+}
