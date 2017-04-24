@@ -15,6 +15,10 @@ Testing purpose React application
 * jest + enzyme for testing
 * http://selfthinker.github.io/CSS-Playing-Cards/ for deck and cards styling
 
+### Install
+
+* npm install
+
 ### Run tests ###
 
 * npm test
