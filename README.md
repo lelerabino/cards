@@ -4,7 +4,11 @@ Testing purpose React application
 
 ### Overview ###
 
-* Not a real cards game, simply deck and card distribution with Drag and Drop to the players.
+Not a real cards game, simply deck and card distribution with Drag and Drop to the players.
+
+### Online demo
+
+You can see this app in action here: https://react-cards.herokuapp.com/
 
 ### Stack ###
 
